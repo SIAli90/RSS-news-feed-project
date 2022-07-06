@@ -1,1 +1,1 @@
-# RSS-news-feed-project
+# javascript-rss-feedreader
